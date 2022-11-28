@@ -1,14 +1,21 @@
 .img {
   box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  width: 50%;
+  margin: auto 50px;
+  height: 30em;
+  border-radius: 1em;
 }
 #home-img-1 {
-  height: 8em;
+  height: 25em;
   margin: 1em;
 }
 
 #home-img-2 {
-height: 12em;
-margin: 1em;
+  height: 13em;
+  margin: 1em;
 }
 
 #home-img-3 {
@@ -17,24 +24,35 @@ margin: 1em;
 }
 
 #home-img-4 {
-  height: 10em;
-  margin: 1em;
+  // height: 18em;
+  // margin: 1em;
+  // height: 300px;
+  // width: 200px;
+  object-fit: cover;
 }
 
 #home-img-5 {
-  height: 16em;
-  margin: 1em;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  width: 50%;
+  margin: auto 50px;
+  height: 30em;
+  border-radius: 1em;
 }
 
 #home-img-6 {
-  height: 20em;
-  margin: 1em;
+  // height: 20em;
+  // margin: 10px;
+  // height: 300px;
+  // width: 645px;
+  object-fit: cover;
 }
 
-#home-img-rory-and-dad {
-  height: 20em;
-  margin: 1em;
-}
+// #home-img-rory-and-dad {
+//   height: 20em;
+//   margin: 1em;
+// }
 
 #home-contact-img {
   height: 20em;
